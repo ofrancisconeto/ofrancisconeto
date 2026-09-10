@@ -1,4 +1,4 @@
-# Hi there, I'm Francisco 👋
+# Hi there, I'm Francisco 
 
 **Full-Stack Developer | Agentic AI, API Integrations & Node.js Ecosystems**
 
